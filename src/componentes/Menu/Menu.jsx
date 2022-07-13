@@ -11,7 +11,13 @@ function Menu() {
                 <Link className="link" to="/portifolio">Portifólio</Link>
             </li>
             <li className="item">    
+                <Link className="link" to="/diario">Diário</Link>
+            </li>
+            <li className="item">    
                 <Link className="link" to="/comentarios">Comentários</Link>
+            </li>
+            <li className="item">    
+                <Link className="link" to="/contato">Contato</Link>
             </li>
         </ul>
     )

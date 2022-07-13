@@ -1,12 +1,12 @@
 .list {
-    background-color: #fff;
-    border-radius: 1rem;
-    padding: 70px 60px;
-    margin: 0 auto;
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 70px 60px;
+  margin: 0 auto;
   }
   
   h2 {
-    color: #111;
+    color: rgb(201, 191, 191);
     font-size: 2.25rem;
   }
   
@@ -21,7 +21,7 @@
   
   input {
     background: #fff;
-    border: 0.5 solid #686AAC;
+    border: 0.5 solid #dbdbe7;
     padding: 12px 24px;
     border-radius: 8px;
     height: 100px;

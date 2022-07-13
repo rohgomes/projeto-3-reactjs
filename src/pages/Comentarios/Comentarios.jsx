@@ -1,7 +1,8 @@
 import { useEffect, useState } from 'react'
 import Header from '../../componentes/Header/Header'
 import { FiTrash2, FiPlus } from 'react-icons/fi'
-import Image from '../../assets/mulher.svg'
+import Image from '../../assets/mensagem.svg'
+import Footer from '../../componentes/Footer/Footer'
 import './comentarios.css'
 
 function Comentarios() {
@@ -90,7 +91,10 @@ function Comentarios() {
                 }
             </ul>
         </main>
-       </section>
+      </section>
+      <footer>
+        <Footer> Página desenvolvida por Maria Roberta | Aluna Reprograma - On17 | 2022 </Footer>
+      </footer>
      </>
      
     )

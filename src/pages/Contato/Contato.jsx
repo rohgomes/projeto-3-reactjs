@@ -1,15 +1,15 @@
 import Header from '../../componentes/Header/Header'
-import Image from '../../assets/projetinhos.svg'
+import Image from '../../assets/contato.svg'
 import Footer from '../../componentes/Footer/Footer'
 
-function Portifolio() {
+function Contato() {
     return(
         <>
             <Header 
                 image={Image} 
                 description={"ilustração de mulher com projeto"}
                 >
-                Meus Projetos
+                Meus Contatos
             </Header>
             <footer>
                 <Footer> Página desenvolvida por Maria Roberta | Aluna Reprograma - On17 | 2022 </Footer>
@@ -18,4 +18,4 @@ function Portifolio() {
     )
 }
 
-export default Portifolio
+export default Contato
