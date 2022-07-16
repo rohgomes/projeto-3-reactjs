@@ -8,7 +8,7 @@ function Menu() {
                 <Link className="link" to="/">Sobre</Link>
             </li>
             <li className="item">    
-                <Link className="link" to="/portifolio">Portifólio</Link>
+                <Link className="link" to="/portfolio">Portfólio</Link>
             </li>
             <li className="item">    
                 <Link className="link" to="/diario">Diário</Link>

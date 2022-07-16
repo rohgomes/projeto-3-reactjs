@@ -12,22 +12,28 @@ function Sobre() {
                 image={Image} 
                 description={"ilustração de mulher com projeto"}
                 >
-                Sobre
+                 Sobre mim...
             </Header>
-            <main>
+            <section className="section-sobre">
                 <div className="imagem">
-                    <img src="" alt="Imagem da desenvolvedora da página"/>
+                    <img src="https://media.giphy.com/media/dGzmyFMJ7dDyQwcdEg/giphy.gif" alt="Imagem da desenvolvedora da página"/>
                 </div>
                 <div className="sobre">
-                    <Textos>
+                    <Textos className="texto">
                         Eu sou Maria Roberta, tenho 29 anos, sou de Olinda - Pernambuco. Sou professora 
-                        de reforço escolar autônoma desde 2017. E estou no processo de transição de carreira desde 
-                        janeiro de 2022. A tecnologia sempre me fascinou, entender como as coisas funcionavam, 
-                        como era tudo por trás das páginas me encantava. E agora me sinto cada dia mais próxima 
-                        do meu objetivo, ser  a pessoa por trás das telas, Desenvolvedora e fazer transição de carreira.
+                        de reforço escolar autônoma desde 2017. Estou no processo de transição de carreira desde 
+                        janeiro de 2022. A tecnologia sempre me fascinou, entender como as coisas funcionavam e 
+                        como era tudo por "trás" das páginas me encantava. E agora me sinto cada dia mais próxima 
+                        do meu objetivo, ser  a pessoa por trás das telas, desenvolvedora e fazer transição de carreira.
+                    </Textos>
+                    <Textos className="texto">
+                        Curiosidades:
+                        Como uma boa e velha canceriana, sou apaixonada pela lua!
+                        Amante e defensora da natureza e de tudo que nela habita. Amo acampar, praia, andar de bicicleta
+                        e passar horas olhando o céu. 
                     </Textos>
                 </div>
-             </main>
+            </section>
             <footer>
                 <Footer> Página desenvolvida por Maria Roberta | Aluna Reprograma - On17 | 2022 </Footer>
             </footer>

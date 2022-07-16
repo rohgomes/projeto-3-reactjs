@@ -1,0 +1,19 @@
+.card-contato {
+    display: flex;
+    margin: 100px;
+    padding: 50px;
+    justify-content: space-between;
+
+}
+
+.contato {
+    margin: 10px;
+    padding: 10px;
+    text-align:center;
+    width: 150px;
+    height: 150px;
+    border:solid 1px;
+    border-radius:0px 20px 0px 20px;
+
+
+}

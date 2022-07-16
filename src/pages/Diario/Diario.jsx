@@ -9,7 +9,7 @@ function Diario() {
                 image={Image} 
                 description={"ilustração de mulher com projeto"}
                 >
-                Meus Diário na Reprograma
+                Meu Diário na Reprograma
             </Header>
             <footer>
                 <Footer> Página desenvolvida por Maria Roberta | Aluna Reprograma - On17 | 2022 </Footer>

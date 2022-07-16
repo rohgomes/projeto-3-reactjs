@@ -1,7 +1,13 @@
-main {
+.section-sobre {
     display: flex;
+    padding: 10px;
+    margin-bottom: 100px;
+
 }
 
-.sobre {
-    width: 60%;
+.texto {
+    font-size: 25px;
+
 }
+
+
