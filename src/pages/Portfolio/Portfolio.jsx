@@ -17,8 +17,8 @@ const list = [
     },
     {   id: 2,
         nome: "API Digimon", 
-        descricao: "Página desenvolvida em html, css e javaScript, consumo de api." , 
-        imagem: "https://media.giphy.com/media/TFN1cSzURSBsylvSPK/giphy.gif" ,
+        descricao: "Página desenvolvida em html, css e javaScript, consumo de api.", 
+        imagem: "https://media.giphy.com/media/TFN1cSzURSBsylvSPK/giphy.gif",
         link: "https://exibicao-digimons-por-maria-roberta.netlify.app/"
     },
     {   id: 3,

@@ -3,7 +3,6 @@
     margin: 100px;
     padding: 50px;
     justify-content: space-between;
-
 }
 
 .contato {
@@ -14,6 +13,14 @@
     height: 150px;
     border:solid 1px;
     border-radius:0px 20px 0px 20px;
+    background-color: #686AAC;
+}
 
+.contato{position:relative; top:0;
+    transition: all .2s ease-in-out}
+.contato:hover{top:-4px;box-shadow:8px 7px 6px #999}
 
+.redes {
+    font-size: 25px;
+    color: #fff
 }

@@ -17,22 +17,22 @@ function Contato() {
 
             <section className='card-contato'>
                 <div className='contato'>
-                    <p>Instagram</p>
+                    <p className='redes'><b>Instagram</b></p>
                     <a href= "https://www.instagram.com/robeerta.gomezz/" className="enter-repo" target="_blank">
-                        <BsInstagram size={45} color="#111"/>
+                        <BsInstagram size={45} color="#fff"/>
                     </a>
                 </div>
                 <div className='contato'>
-                    <p>Linkedin</p>
+                    <p className='redes'><b>Linkedin</b></p>
                     <a href="https://www.linkedin.com/in/mrobertagomes/" className="enter-repo" target="_blank">
-                        <BsLinkedin size={45} color="#111"/>
+                        <BsLinkedin size={45} color="#fff"/>
                     </a>
 
                 </div>
                 <div className='contato'>
-                    <p>GitGub</p>
+                    <p className='redes'><b>GitHub</b></p>
                     <a href="https://github.com/rohgomes" className="enter-repo" target="_blank">
-                        <BsGithub size={45} color="#111"/>
+                        <BsGithub size={45} color="#fff"/>
                     </a>
 
                 </div >
